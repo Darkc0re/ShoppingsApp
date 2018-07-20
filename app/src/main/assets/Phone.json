@@ -1,0 +1,54 @@
+{
+  "Phones": [
+    {
+      "iPhone": [
+        {
+          "device": "iPhone 4s",
+          "display": "3.5 in (640x960 pixels)",
+          "camera": "8MP",
+          "ram": "512MB",
+          "battery": "1432mAh",
+          "platform": {
+              "os": "iOS 5, upgradable > iOS 9.3.5",
+              "chipset": "Apple A5",
+              "cpu": "Dual-core 1.0 GHz Cortex-A9",
+              "gpu": "PowerVr SGX543MP2"
+            },
+          "price": 4000
+        },
+        {
+          "device": "iPhone 5",
+          "display": "4.0 in (640x1136 pixels)",
+          "camera": "8MP",
+          "ram": "1GB",
+          "battery": "1440mAh",
+          "platform": {
+            "os": "iOS 6, upgradable > iOS 10.3.3",
+            "chipset": "Apple A6",
+            "cpu": "Dual-core 1.3 GHz Swift (ARM v7-based)",
+            "gpu": "PowerVR SGX 543MP3(triple-core graphics)"
+          }
+          "price": 4000
+        }
+      ]
+    },
+
+    {
+      "Android": [
+        {
+          "device": "Motorola Moto G6",
+          "display": "5.7 in (1080x2160 pixels)",
+          "ram": "4GB",
+          "battery": "3000mAh",
+          "platform": {
+              "os": "Android 8.0(Oreo)",
+              "chipset": "Qualcomm SDM450 Snapdragon 450",
+              "cpu": "Octa-core 1.8 GHz Cortex-A53",
+              "gpu": "Adreno 506"
+            }
+          "price": 10000
+        }
+      ]
+    }
+  ]
+}
